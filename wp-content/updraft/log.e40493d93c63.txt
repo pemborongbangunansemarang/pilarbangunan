@@ -1,0 +1,324 @@
+0000.001 (0) Opened log file at time: Wed, 04 Jan 2023 03:12:52 +0000 on https://pilarbangunan.com
+0000.041 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.16.58.25 WP: 4.9.22 PHP: 7.3.33 (apache2handler, Windows NT ASUS64 10.0 build 19042 (Windows 10) AMD64) MySQL: 10.4.22-MariaDB WPLANG: en_US Server: Apache/2.4.51 (Win64) OpenSSL/1.1.1l PHP/7.3.33 safe_mode: 0 max_execution_time: 900 memory_limit: 268435456 (used: 54.7M | 12M) multisite: N openssl: OpenSSL 1.1.1l  24 Aug 2021 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.081 (0) Free space on disk containing Updraft's temporary directory: 374217 MB
+0000.168 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.241 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.468 (0) Set semaphore last lock (fd) time to 2023-01-04 03:12:53
+0000.485 (0) Semaphore lock (fd) complete
+0000.626 (0) Backup run: resumption=0, nonce=e40493d93c63, file_nonce=e40493d93c63 begun at=1672801972 (1s ago), job type=backup
+0000.716 (0) Scheduling a resumption (1) after 300 seconds (1672802273) in case this run gets aborted
+0000.855 (0) Checking if we have a zip executable available
+0000.929 (0) Creation of backups of directories: beginning
+0001.014 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0004.614 (0) Total entities for the zip file: 1252 directories, 6128 files (0 skipped as non-modified), 103.4 MB
+0005.779 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0006.491 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 100 files added (on-disk size: 236.4 KB)
+0006.629 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 200 files added (on-disk size: 236.4 KB)
+0006.738 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 300 files added (on-disk size: 236.4 KB)
+0006.871 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 400 files added (on-disk size: 236.4 KB)
+0007.031 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 500 files added (on-disk size: 236.4 KB)
+0007.143 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 600 files added (on-disk size: 236.4 KB)
+0007.282 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 700 files added (on-disk size: 236.4 KB)
+0007.452 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 800 files added (on-disk size: 236.4 KB)
+0007.687 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 900 files added (on-disk size: 236.4 KB)
+0008.090 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 1000 files added (on-disk size: 236.4 KB)
+0008.300 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (15 MB, 6128 files batched, 1001 (1002) added so far); re-opening (prior size: 236.4 KB)
+0011.419 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 1100 files added (on-disk size: 6015.7 KB)
+0011.582 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 1200 files added (on-disk size: 6015.7 KB)
+0011.698 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 1300 files added (on-disk size: 6015.7 KB)
+0011.796 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 1400 files added (on-disk size: 6015.7 KB)
+0011.906 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 1500 files added (on-disk size: 6015.7 KB)
+0012.041 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 1600 files added (on-disk size: 6015.7 KB)
+0012.131 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 1700 files added (on-disk size: 6015.7 KB)
+0012.308 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 1800 files added (on-disk size: 6015.7 KB)
+0012.394 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 1900 files added (on-disk size: 6015.7 KB)
+0012.483 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 2000 files added (on-disk size: 6015.7 KB)
+0012.612 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (19.4 MB, 6128 files batched, 1001 (2003) added so far); re-opening (prior size: 6015.7 KB)
+0016.977 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 2100 files added (on-disk size: 12282.4 KB)
+0017.092 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 2200 files added (on-disk size: 12282.4 KB)
+0017.294 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 2300 files added (on-disk size: 12282.4 KB)
+0017.358 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 2400 files added (on-disk size: 12282.4 KB)
+0017.477 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 2500 files added (on-disk size: 12282.4 KB)
+0017.577 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 2600 files added (on-disk size: 12282.4 KB)
+0017.786 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 2700 files added (on-disk size: 12282.4 KB)
+0018.105 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 2800 files added (on-disk size: 12282.4 KB)
+0018.521 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 2900 files added (on-disk size: 12282.4 KB)
+0018.617 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 3000 files added (on-disk size: 12282.4 KB)
+0018.650 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (20.9 MB, 6128 files batched, 1001 (3004) added so far); re-opening (prior size: 12282.4 KB)
+0021.627 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 3100 files added (on-disk size: 18330 KB)
+0021.780 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 3200 files added (on-disk size: 18330 KB)
+0021.867 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 3300 files added (on-disk size: 18330 KB)
+0021.950 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 3400 files added (on-disk size: 18330 KB)
+0022.049 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 3500 files added (on-disk size: 18330 KB)
+0022.163 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 3600 files added (on-disk size: 18330 KB)
+0022.242 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 3700 files added (on-disk size: 18330 KB)
+0022.313 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 3800 files added (on-disk size: 18330 KB)
+0022.409 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 3900 files added (on-disk size: 18330 KB)
+0022.505 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 4000 files added (on-disk size: 18330 KB)
+0022.635 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (23.1 MB, 6128 files batched, 1001 (4005) added so far); re-opening (prior size: 18330 KB)
+0026.528 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 4100 files added (on-disk size: 24981.2 KB)
+0026.634 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 4200 files added (on-disk size: 24981.2 KB)
+0026.776 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 4300 files added (on-disk size: 24981.2 KB)
+0026.873 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 4400 files added (on-disk size: 24981.2 KB)
+0027.068 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 4500 files added (on-disk size: 24981.2 KB)
+0027.248 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 4600 files added (on-disk size: 24981.2 KB)
+0027.368 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 4700 files added (on-disk size: 24981.2 KB)
+0027.426 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 4800 files added (on-disk size: 24981.2 KB)
+0027.548 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 4900 files added (on-disk size: 24981.2 KB)
+0027.659 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 5000 files added (on-disk size: 24981.2 KB)
+0027.706 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (18.9 MB, 6128 files batched, 1001 (5006) added so far); re-opening (prior size: 24981.2 KB)
+0031.645 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 5100 files added (on-disk size: 30461.4 KB)
+0031.824 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 5200 files added (on-disk size: 30461.4 KB)
+0032.353 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 5300 files added (on-disk size: 30461.4 KB)
+0032.477 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 5400 files added (on-disk size: 30461.4 KB)
+0032.636 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 5500 files added (on-disk size: 30461.4 KB)
+0032.791 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 5600 files added (on-disk size: 30461.4 KB)
+0032.882 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 5700 files added (on-disk size: 30461.4 KB)
+0032.999 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 5800 files added (on-disk size: 30461.4 KB)
+0033.093 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 5900 files added (on-disk size: 30461.4 KB)
+0033.201 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 6000 files added (on-disk size: 30461.4 KB)
+0033.256 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (5.5 MB, 6128 files batched, 1001 (6007) added so far); re-opening (prior size: 30461.4 KB)
+0036.446 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip.tmp: 6100 files added (on-disk size: 32303.5 KB)
+0038.534 (0) Created plugins zip (0) - 32531.8 KB in 37.5 s (868.4 KB/s) (sha1: a59488d7e57a2698b2fd39d1876636873e156b10, sha256: 32e4988d28a9ac3165634ca6622ac6bb431ee9ecd732f8a2723b652ec85b1795)
+0038.635 (0) Beginning creation of dump of themes (split every: 400 MB)
+0038.735 (0) Total entities for the zip file: 9 directories, 40 files (0 skipped as non-modified), 0.6 MB
+0038.931 (0) Created themes zip (0) - 438.4 KB in 0.2 s (1756.6 KB/s) (sha1: 99b60f89be7a169a777f386b7b0cdc18906418df, sha256: 0bbbf3bef54a08956379e0f6c687c45ec95a50f714e9d5f30997564cf46b9a6e)
+0039.005 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0039.034 (0) Looking for candidates to backup in: D:\xampp\htdocs/wp-content/uploads
+0039.074 (0) finding files: 2023: adding to list (1)
+0039.113 (0) finding files: elementor: adding to list (2)
+0039.142 (0) finding files: et_temp: adding to list (3)
+0039.181 (0) finding files: madxartwork: adding to list (4)
+0039.198 (0) finding files: piotnet-addons-for-madxartwork: adding to list (5)
+0039.226 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0039.614 (0) Total entities for the zip file: 12 directories, 209 files (0 skipped as non-modified), 28.8 MB
+0040.006 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0040.097 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.5 MB, 209 files batched, 176 (176) added so far); re-opening (prior size: 0 KB)
+0042.646 (0) A useful amount of data was added after this amount of zip processing: 4.2 s (normalised: 4.1 s, rate: 6248.6 KB/s)
+0043.015 (0) Performance is good - will increase the amount of data we attempt to batch (time=4.1869440078735, normalised_time=4.0969113245858, max_time=42.858999013901, data points known=1, old_max_bytes=26214400, new_max_bytes=164541947)
+0043.233 (0) Zip: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-uploads.zip.tmp: 200 files added (on-disk size: 26198.6 KB)
+0044.830 (0) Created uploads zip (0) - 29405.8 KB in 5.6 s (5282.4 KB/s) (sha1: 4a48e3d2cf7b84fbe78771cd1983794459d48250, sha256: 657e38af377d040fd32bdca87052b5a88c38cadf25378031874ba8212b910f2e)
+0044.871 (0) No backup of wpcore: excluded by user's options
+0044.936 (0) Beginning backup of other directories found in the content directory (index: 0)
+0044.953 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0044.978 (0) Looking for candidates to backup in: D:\xampp\htdocs/wp-content
+0045.054 (0) finding files: cache: skipping: excluded by options
+0045.129 (0) finding files: et-cache: adding to list (1)
+0045.217 (0) finding files: index.php: adding to list (2)
+0045.500 (0) finding files: languages: adding to list (3)
+0045.548 (0) finding files: mu-plugins: adding to list (4)
+0045.717 (0) finding files: plugins: skipping: this is the plugins directory
+0045.770 (0) finding files: themes: skipping: this is the themes directory
+0045.817 (0) finding files: updraft: skipping: this is the updraft directory
+0045.903 (0) finding files: upgrade: skipping: excluded by options
+0045.921 (0) finding files: uploads: skipping: this is the uploads directory
+0046.066 (0) Total entities for the zip file: 8 directories, 80 files (0 skipped as non-modified), 7.5 MB
+0046.812 (0) Created others zip (0) - 1452.1 KB in 0.9 s (1686 KB/s) (sha1: a5912ad69623361e32d7d07e07662dc7d0af9388, sha256: da2988cbdbf6f0c996d81d835806577d153693ee4d5d49f8ee4672ac1f55d645)
+0046.831 (0) No backup of more: excluded by user's options
+0046.908 (0) Saving backup status to database (elements: 8)
+0046.989 (0) Beginning creation of database dump (WordPress DB)
+0047.007 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0047.122 (0) Table pl_options: Total expected rows (approximate): 535
+0047.589 (0) Table pl_options: Rows added in this batch (next record: 1858): 540 (uncompressed bytes in this segment=387710) in 0.43 seconds
+0048.555 (0) Table pl_options: finishing file(s) (2, 77.4 KB)
+0048.705 (0) Table pl_users: Total expected rows (approximate): 0
+0048.843 (0) Table pl_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1407) in 0.11 seconds
+0048.975 (0) Table pl_users: finishing file(s) (2, 0.6 KB)
+0049.046 (0) Table pl_usermeta: Total expected rows (approximate): 33
+0049.127 (0) Table pl_usermeta: Rows added in this batch (next record: 33): 33 (uncompressed bytes in this segment=3982) in 0.06 seconds
+0049.282 (0) Table pl_usermeta: finishing file(s) (2, 1.9 KB)
+0049.330 (0) Table pl_commentmeta: Total expected rows (approximate): 0
+0049.383 (0) Table pl_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=696) in 0.04 seconds
+0049.512 (0) Table pl_commentmeta: finishing file(s) (2, 0.4 KB)
+0049.580 (0) Table pl_comments: Total expected rows (approximate): 0
+0049.662 (0) Table pl_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=2137) in 0.04 seconds
+0049.803 (0) Table pl_comments: finishing file(s) (2, 0.8 KB)
+0049.887 (0) Table pl_links: Total expected rows (approximate): 0
+0049.974 (0) Table pl_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1306) in 0.05 seconds
+0050.108 (0) Table pl_links: finishing file(s) (2, 0.5 KB)
+0050.142 (0) Table pl_postmeta: Total expected rows (approximate): 1321
+0052.522 (0) Table pl_postmeta: Rows added in this batch (next record: 3155): 1511 (uncompressed bytes in this segment=8338969) in 2.34 seconds
+0052.656 (0) Table pl_postmeta: finishing file(s) (2, 786.7 KB)
+0052.786 (0) Table pl_posts: Total expected rows (approximate): 203
+0053.866 (0) Table pl_posts: Rows added in this batch (next record: 371): 218 (uncompressed bytes in this segment=1821546) in 1.06 seconds
+0054.631 (0) Table pl_posts: finishing file(s) (2, 113 KB)
+0054.719 (0) Table pl_term_relationships: Total expected rows (approximate): 25
+0054.821 (0) Table pl_term_relationships: Rows added in this batch (next record: 100000): 25 (uncompressed bytes in this segment=1026) in 0.06 seconds
+0054.950 (0) Table pl_term_relationships: finishing file(s) (2, 0.5 KB)
+0055.008 (0) Table pl_term_taxonomy: Total expected rows (approximate): 9
+0055.121 (0) Table pl_term_taxonomy: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=1237) in 0.08 seconds
+0055.237 (0) Table pl_term_taxonomy: finishing file(s) (2, 0.5 KB)
+0055.306 (0) Table pl_termmeta: Total expected rows (approximate): 1
+0055.429 (0) Table pl_termmeta: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=826) in 0.09 seconds
+0055.558 (0) Table pl_termmeta: finishing file(s) (2, 0.5 KB)
+0055.628 (0) Table pl_terms: Total expected rows (approximate): 9
+0055.768 (0) Table pl_terms: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=1005) in 0.06 seconds
+0055.919 (0) Table pl_terms: finishing file(s) (2, 0.5 KB)
+0056.002 (0) Table pl_e_events: Total expected rows (approximate): 2
+0056.080 (0) Table pl_e_events: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=989) in 0.05 seconds
+0056.467 (0) Table pl_e_events: finishing file(s) (2, 0.5 KB)
+0056.556 (0) Table pl_e_submissions: Total expected rows (approximate): 0
+0056.633 (0) Table pl_e_submissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=2289) in 0.04 seconds
+0056.789 (0) Table pl_e_submissions: finishing file(s) (2, 0.7 KB)
+0056.867 (0) Table pl_e_submissions_actions_log: Total expected rows (approximate): 0
+0056.930 (0) Table pl_e_submissions_actions_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1264) in 0.05 seconds
+0057.055 (0) Table pl_e_submissions_actions_log: finishing file(s) (2, 0.5 KB)
+0057.156 (0) Table pl_e_submissions_values: Total expected rows (approximate): 0
+0057.281 (0) Table pl_e_submissions_values: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=735) in 0.05 seconds
+0057.392 (0) Table pl_e_submissions_values: finishing file(s) (2, 0.4 KB)
+0057.443 (0) Table pl_jet_post_types: Total expected rows (approximate): 0
+0057.483 (0) Table pl_jet_post_types: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1463) in 0.02 seconds
+0057.644 (0) Table pl_jet_post_types: finishing file(s) (2, 0.7 KB)
+0057.703 (0) Table pl_jet_taxonomies: Total expected rows (approximate): 0
+0057.799 (0) Table pl_jet_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=813) in 0.05 seconds
+0058.012 (0) Table pl_jet_taxonomies: finishing file(s) (2, 0.4 KB)
+0058.061 (0) Table pl_madx_post_types: Total expected rows (approximate): 0
+0058.191 (0) Table pl_madx_post_types: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=749) in 0.10 seconds
+0058.359 (0) Table pl_madx_post_types: finishing file(s) (2, 0.3 KB)
+0059.348 (0) Table pl_madx_taxonomies: Total expected rows (approximate): 0
+0059.487 (0) Table pl_madx_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=815) in 0.04 seconds
+0059.625 (0) Table pl_madx_taxonomies: finishing file(s) (2, 0.4 KB)
+0059.676 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_options.table.tmpr1859.gz (1/20/fopen): adding to final database dump
+0059.722 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_options.table.gz (2/20/fopen): adding to final database dump
+0059.750 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_users.table.tmpr2.gz (3/20/fopen): adding to final database dump
+0059.774 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_users.table.gz (4/20/fopen): adding to final database dump
+0059.808 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_usermeta.table.tmpr34.gz (5/20/fopen): adding to final database dump
+0059.843 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_usermeta.table.gz (6/20/fopen): adding to final database dump
+0059.865 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_commentmeta.table.tmpr0.gz (7/20/fopen): adding to final database dump
+0059.890 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_commentmeta.table.gz (8/20/fopen): adding to final database dump
+0059.924 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_comments.table.tmpr2.gz (9/20/fopen): adding to final database dump
+0059.959 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_comments.table.gz (10/20/fopen): adding to final database dump
+0059.993 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_links.table.tmpr0.gz (11/20/fopen): adding to final database dump
+0060.028 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_links.table.gz (12/20/fopen): adding to final database dump
+0060.063 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_postmeta.table.tmpr3156.gz (13/20/fopen): adding to final database dump
+0060.192 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_postmeta.table.gz (14/20/fopen): adding to final database dump
+0060.219 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_posts.table.tmpr372.gz (15/20/fopen): adding to final database dump
+0060.266 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_posts.table.gz (16/20/fopen): adding to final database dump
+0060.288 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_term_relationships.table.tmpr100001.gz (17/20/fopen): adding to final database dump
+0060.312 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_term_relationships.table.gz (18/20/fopen): adding to final database dump
+0060.347 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_term_taxonomy.table.tmpr10.gz (19/20/fopen): adding to final database dump
+0060.393 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_term_taxonomy.table.gz (20/20/fopen): adding to final database dump
+0060.442 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_termmeta.table.tmpr2.gz (21/20/fopen): adding to final database dump
+0060.566 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_termmeta.table.gz (22/20/fopen): adding to final database dump
+0060.646 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_terms.table.tmpr10.gz (23/20/fopen): adding to final database dump
+0060.692 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_terms.table.gz (24/20/fopen): adding to final database dump
+0060.737 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_e_events.table.tmpr3.gz (25/20/fopen): adding to final database dump
+0060.783 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_e_events.table.gz (26/20/fopen): adding to final database dump
+0060.828 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_e_submissions.table.tmpr0.gz (27/20/fopen): adding to final database dump
+0060.863 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_e_submissions.table.gz (28/20/fopen): adding to final database dump
+0060.911 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_e_submissions_actions_log.table.tmpr0.gz (29/20/fopen): adding to final database dump
+0060.960 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_e_submissions_actions_log.table.gz (30/20/fopen): adding to final database dump
+0060.984 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_e_submissions_values.table.tmpr0.gz (31/20/fopen): adding to final database dump
+0061.007 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_e_submissions_values.table.gz (32/20/fopen): adding to final database dump
+0061.053 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_jet_post_types.table.tmpr2.gz (33/20/fopen): adding to final database dump
+0061.111 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_jet_post_types.table.gz (34/20/fopen): adding to final database dump
+0061.157 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_jet_taxonomies.table.tmpr0.gz (35/20/fopen): adding to final database dump
+0061.203 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_jet_taxonomies.table.gz (36/20/fopen): adding to final database dump
+0061.226 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_madx_post_types.table.tmpr0.gz (37/20/fopen): adding to final database dump
+0061.250 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_madx_post_types.table.gz (38/20/fopen): adding to final database dump
+0061.273 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_madx_taxonomies.table.tmpr0.gz (39/20/fopen): adding to final database dump
+0061.296 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db-table-pl_madx_taxonomies.table.gz (40/20/fopen): adding to final database dump
+0061.350 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db.gz: finished writing out complete database file (987.6 KB)
+0062.736 (0) Total database tables backed up: 20 (backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db.gz, size: 1011420, sha1: 316a6efeec60619066437b67bd199945ccec046b, sha256: ce1980b68f7f46ec8bbb30342338bf657dd66cddd94416f54a11272416cc65b7)
+0063.233 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0063.574 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0063.799 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0063.954 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-others.zip: others: This file has not yet been successfully uploaded: will queue
+0064.060 (0) backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db.gz: db: This file has not yet been successfully uploaded: will queue
+0064.135 (0) Saving backup history. Total backup size: 63.3 MB
+0064.328 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0065.080 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0065.105 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-e63877954494dd7c9625009c849586af)
+0068.541 (0) Google Drive: quota usage: used=309.7 MB, total=15360 MB, available=15050.3 MB
+0068.724 (0) Google Drive: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip: Attempting to upload to Google Drive (into folder id: 1VrvvH4VwTgDZrBG7eowtMxzc3X0fivF2)
+0070.603 (0) Googledrive chunked upload: 3.1 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 59.2 / 26)
+0071.649 (0) Googledrive chunked upload: 9.4 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 59.2 / 26)
+0075.146 (0) Googledrive chunked upload: 22 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 59.2 / 26)
+0080.699 (0) Googledrive chunked upload: 47.2 % uploaded (15728640)
+0085.411 (0) Googledrive chunked upload: 72.4 % uploaded (24117248)
+0090.853 (0) Googledrive chunked upload: 97.6 % uploaded (32505856)
+0093.022 (0) Googledrive chunked upload: 100 % uploaded (32505856)
+0093.261 (0) Google Drive: OK: Archive backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip uploaded in 24.47 seconds
+0093.290 (0) Recording as successfully uploaded: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip
+0093.369 (0) Deleting local file: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-plugins.zip: OK
+0094.076 (0) Google Drive: quota usage: used=341.5 MB, total=15360 MB, available=15018.5 MB
+0095.402 (0) Google Drive: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-themes.zip: Attempting to upload to Google Drive (into folder id: 1VrvvH4VwTgDZrBG7eowtMxzc3X0fivF2)
+0098.128 (0) Googledrive chunked upload: 100 % uploaded
+0098.212 (0) Google Drive: OK: Archive backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-themes.zip uploaded in 2.64 seconds
+0098.229 (0) Recording as successfully uploaded: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-themes.zip
+0098.277 (0) Deleting local file: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-themes.zip: OK
+0098.907 (0) Google Drive: quota usage: used=341.9 MB, total=15360 MB, available=15018.1 MB
+0098.936 (0) Google Drive: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-uploads.zip: Attempting to upload to Google Drive (into folder id: 1VrvvH4VwTgDZrBG7eowtMxzc3X0fivF2)
+0100.070 (0) Googledrive chunked upload: 3.5 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 59.2 / 26)
+0101.164 (0) Googledrive chunked upload: 10.4 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 59.2 / 26)
+0103.514 (0) Googledrive chunked upload: 24.4 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 59.2 / 26)
+0108.540 (0) Googledrive chunked upload: 52.2 % uploaded (15728640)
+0113.421 (0) Googledrive chunked upload: 80.1 % uploaded (24117248)
+0119.067 (0) Googledrive chunked upload: 100 % uploaded (24117248)
+0119.117 (0) Google Drive: OK: Archive backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-uploads.zip uploaded in 20.16 seconds
+0119.146 (0) Recording as successfully uploaded: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-uploads.zip
+0119.291 (0) Deleting local file: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-uploads.zip: OK
+0119.863 (0) Google Drive: quota usage: used=370.6 MB, total=15360 MB, available=14989.4 MB
+0120.184 (0) Google Drive: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-others.zip: Attempting to upload to Google Drive (into folder id: 1VrvvH4VwTgDZrBG7eowtMxzc3X0fivF2)
+0121.492 (0) Googledrive chunked upload: 70.5 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 59.2 / 26)
+0122.987 (0) Googledrive chunked upload: 100 % uploaded (1048576)
+0123.061 (0) Google Drive: OK: Archive backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-others.zip uploaded in 2.78 seconds
+0123.125 (0) Recording as successfully uploaded: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-others.zip
+0123.299 (0) Deleting local file: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-others.zip: OK
+0123.913 (0) Google Drive: quota usage: used=372 MB, total=15360 MB, available=14988 MB
+0123.940 (0) Google Drive: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db.gz: Attempting to upload to Google Drive (into folder id: 1VrvvH4VwTgDZrBG7eowtMxzc3X0fivF2)
+0126.274 (0) Googledrive chunked upload: 100 % uploaded
+0126.360 (0) Google Drive: OK: Archive backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db.gz uploaded in 2.38 seconds
+0126.377 (0) Recording as successfully uploaded: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db.gz
+0126.426 (0) Deleting local file: backup_2023-01-04-0312_Pilar_Bangunan_Semarang_e40493d93c63-db.gz: OK
+0126.474 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0126.494 (0) Number of backup sets in history: 4; groups (db): 1
+0126.509 (0) Examining (for databases) backup set with group_id=0, nonce=e40493d93c63, datestamp=1672801972 (Jan 04 2023 03:12:52)
+0126.526 (0) This backup set is the backup set just made, so will not be deleted.
+0126.526 (0) Examining (for databases) backup set with group_id=0, nonce=557afd62f275, datestamp=1672797681 (Jan 04 2023 02:01:21)
+0126.526 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0126.543 (0) Examining (for databases) backup set with group_id=0, nonce=43c8a2dfcad2, datestamp=1672793875 (Jan 04 2023 00:57:55)
+0126.544 (0) This backup set (1672793875) was an automatic backup, and we have already reached retain limits, so it will be pruned.
+0126.544 (0) Delete file: backup_2023-01-04-0057_Pilar_Bangunan_Semarang_43c8a2dfcad2-db.gz, service=googledrive
+0128.673 (0) Google Drive: backup_2023-01-04-0057_Pilar_Bangunan_Semarang_43c8a2dfcad2-db.gz: Deletion successful
+0130.351 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0130.590 (0) Examining (for databases) backup set with group_id=0, nonce=3482b22ee2fd, datestamp=1672754194 (Jan 03 2023 13:56:34)
+0130.913 (0) 1672754194: db: this set includes a database (backup_2023-01-03-1356_Pilar_Bangunan_Semarang_3482b22ee2fd-db.gz); db count is now 2
+0130.913 (0) 1672754194: db: over retain limit (2); will delete this database
+0130.913 (0) Delete file: backup_2023-01-03-1356_Pilar_Bangunan_Semarang_3482b22ee2fd-db.gz, service=googledrive
+0132.694 (0) Google Drive: backup_2023-01-03-1356_Pilar_Bangunan_Semarang_3482b22ee2fd-db.gz: Deletion successful
+0132.818 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0132.857 (0) Number of backup sets in history: 4; groups (files): 1
+0132.874 (0) Examining (for files) backup set with nonce=e40493d93c63, datestamp=1672801972 (Jan 04 2023 03:12:52)
+0132.874 (0) This backup set is the backup set just made, so will not be deleted.
+0132.914 (0) This backup set is the backup set just made, so will not be deleted.
+0132.914 (0) This backup set is the backup set just made, so will not be deleted.
+0132.914 (0) This backup set is the backup set just made, so will not be deleted.
+0132.915 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0132.942 (0) Examining (for files) backup set with nonce=557afd62f275, datestamp=1672797681 (Jan 04 2023 02:01:21)
+0132.942 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0132.942 (0) Examining (for files) backup set with nonce=43c8a2dfcad2, datestamp=1672793875 (Jan 04 2023 00:57:55)
+0132.942 (0) This backup set (1672793875) was an automatic backup, and we have not yet reached any retain limits, so it will not be counted or pruned. Skipping.
+0132.942 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0132.982 (0) Examining (for files) backup set with nonce=3482b22ee2fd, datestamp=1672754194 (Jan 03 2023 13:56:34)
+0132.982 (0) plugins: over retain limit (2); will delete this file entity
+0132.982 (0) themes: over retain limit (2); will delete this file entity
+0132.982 (0) uploads: over retain limit (2); will delete this file entity
+0132.982 (0) others: over retain limit (2); will delete this file entity
+0132.982 (0) Delete file: backup_2023-01-03-1356_Pilar_Bangunan_Semarang_3482b22ee2fd-plugins.zip, service=googledrive
+0132.998 (0) Delete file: backup_2023-01-03-1356_Pilar_Bangunan_Semarang_3482b22ee2fd-themes.zip, service=googledrive
+0133.027 (0) Delete file: backup_2023-01-03-1356_Pilar_Bangunan_Semarang_3482b22ee2fd-uploads.zip, service=googledrive
+0133.067 (0) Delete file: backup_2023-01-03-1356_Pilar_Bangunan_Semarang_3482b22ee2fd-others.zip, service=googledrive
+0135.356 (0) Google Drive: backup_2023-01-03-1356_Pilar_Bangunan_Semarang_3482b22ee2fd-others.zip: Deletion successful
+0137.700 (0) Google Drive: backup_2023-01-03-1356_Pilar_Bangunan_Semarang_3482b22ee2fd-uploads.zip: Deletion successful
+0138.653 (0) Google Drive: backup_2023-01-03-1356_Pilar_Bangunan_Semarang_3482b22ee2fd-themes.zip: Deletion successful
+0139.613 (0) Google Drive: backup_2023-01-03-1356_Pilar_Bangunan_Semarang_3482b22ee2fd-plugins.zip: Deletion successful
+0139.994 (0) This backup set is now empty; will remove from history
+0140.032 (0) Deleting log file (log.3482b22ee2fd.txt)
+0140.080 (0) Retain: saving new backup history (sets now: 3) and finishing retain operation
+0140.152 (0) Resume backup (e40493d93c63, 0): finish run
+0140.247 (0) Decremented the semaphore (fd) by 1
+0140.304 (0) Semaphore (fd) unlocked
+0140.466 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0140.573 (0) No email will/can be sent - the user has not configured an email address.
+0140.612 (0) The backup apparently succeeded and is now complete
